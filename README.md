@@ -123,3 +123,5 @@ Por último creamos un objeto main para que ejecute lo anterior:
 
 
 Espero que sirva este sensillo ejemplo.
+
+http://migranitodesoftware.blogspot.com.ar/2014/11/meli-api-sdk-java-obtener-datos-con-una.html
