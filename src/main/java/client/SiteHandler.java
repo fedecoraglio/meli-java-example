@@ -20,7 +20,7 @@ public class SiteHandler {
     private static final SiteHandler instance = new SiteHandler();
 
     private SiteHandler() {
-        meli = new Meli(4374812305345237L, "ux2qcwlpNj1EExKXxTnefTfMXs40UsQY");
+        meli = new Meli(11111L, "clientSecret");
     }
 
     public static SiteHandler getInstance() {
